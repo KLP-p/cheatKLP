@@ -1,0 +1,18 @@
+[
+  {
+    "name": "app android",
+    "file": "android.apk"
+  },
+  {
+    "name": "app Linux",
+    "file": "linux.zip"
+  },
+  {
+    "name": "app Windows",
+    "file": "windows.zip"
+  },
+  {
+    "name": "app ios",
+    "file": "ios.apk"
+  }
+]
